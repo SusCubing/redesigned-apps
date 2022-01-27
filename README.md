@@ -1,2 +1,4 @@
 # redesigned-apps
-some random website
+idk what this is
+
+Click to go to my real site -> suscubing.github.io/redesigned-apps/index.html
