@@ -1,2 +1,2 @@
 # redesigned-apps
-idk what this is
+some random website
