@@ -26,6 +26,9 @@ function upgradecube(){
 		moneyperclick*=3;
 		moneyamount-=upgradecost;
 		upgradecost=Math.round(upgradecost*3.5);
+		if(cubesize==10){
+		moneyperclick=40000;
+		}
 		cube.src="img/"+cubesize+"x"+cubesize+".png";
 		moneyclick.innerHTML=cubesize+"x"+cubesize+" - $"+moneyperclick+" per click";
 		money.innerHTML="$"+moneyamount;
